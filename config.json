@@ -4,11 +4,11 @@
     "servers":[
         {
             "svname": "Main Server",
-            "ip":"cfx.re/join/qzzplv"
+            "ip":"qzzplv"
         },
         {
             "svname": "ESX Server",
-            "ip":"cfx.re/join/dp8ga3"
+            "ip":"dp8ga3"
         }
     ]
 
