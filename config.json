@@ -6,10 +6,10 @@
             "svname": "Main Server",
             "ip":"qzzplv"
         }
-       /* {
-            "svname": "ESX Server",
-            "ip":"dp8ga3"
-        }*/
+        {
+            "svname": "",
+            "ip":""
+        }
     ]
 
 }
