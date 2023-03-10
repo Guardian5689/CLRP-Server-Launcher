@@ -18,7 +18,7 @@
       "icon":"icon.ico"
     },
     "nsis":{
-      "oneClick":true,
+      "oneClick":false,
       "installerIcon":"icon.ico",
       "uninstallerIcon":"icon.ico",
       "uninstallDisplayName": "CLRP Launcher Uninstaller",
@@ -43,7 +43,7 @@
   "author": "SOUSA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Guardian5689/CLRP-Server-Launcher/issues"
+    "url": "https://github.com/Guardian5689/CLRP-Server-Lanpm uncher/issues"
   },
   "homepage": "https://github.com/Guardian5689/CLRP-Server-Launcher#readme",
   "dependencies": {
