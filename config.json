@@ -1,14 +1,14 @@
 {
-    "useOverlay": false,
-    "discord":"https://discord.gg/GWZsjkJ",
+    "useOverlay": true,
+    "discord":"https://discord.gg/caliliferp",
     "servers":[
         {
-            "svname": "Server name here",
-            "ip":"xxxxxx"
+            "svname": "Main Server",
+            "ip":"fivem://cfx.re/join/qzzplv"
         },
         {
-            "svname": "Server name here",
-            "ip":"xxxxxx"
+            "svname": "ESX Server",
+            "ip":"fivem://cfx.re/join/dp8ga3"
         }
     ]
 
