@@ -5,7 +5,7 @@
         {
             "svname": "Main Server",
             "ip":"qzzplv"
-        }
+        },
         {
             "svname": "ESX Server (Whitelist)",
             "ip":""
