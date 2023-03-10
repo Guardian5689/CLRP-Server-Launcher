@@ -10,7 +10,7 @@
   },
 
   "build":{
-    "appId": "SOUSA Launcher",
+    "appId": "California Life RP Launcher",
     "win":{
       "target": [
         "nsis"
@@ -21,9 +21,9 @@
       "oneClick":true,
       "installerIcon":"icon.ico",
       "uninstallerIcon":"icon.ico",
-      "uninstallDisplayName": "SOUSA Launcher Uninstaller",
-      "license":"license.md",
-      "allowToChangeInstallationDirectory":false
+      "uninstallDisplayName": "CLRP Launcher Uninstaller",
+      "license":"LICENSE",
+      "allowToChangeInstallationDirectory":true
     },
     "extraResources": [
       {
